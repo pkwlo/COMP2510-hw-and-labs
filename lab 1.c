@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 
 // Write a function in C that finds the maximum value in an array.
@@ -21,4 +22,4 @@ int main() {
     int size = sizeof(testArray) / sizeof(testArray[0]);
     findMaximum(testArray, size);
     return 0;
-}
+}*/
